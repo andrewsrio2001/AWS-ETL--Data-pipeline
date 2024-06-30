@@ -1,4 +1,4 @@
-# AETLws--Data-pipeline
+# AWS-ETL--Data-pipeline
 
 Learn how to build ETL data pipeline in Python on YouTube data using various AWS services.
 
